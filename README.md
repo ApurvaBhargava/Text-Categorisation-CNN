@@ -3,9 +3,9 @@ Statistical Analysis of single channel static Convolutional Neural Network for T
 
 ## Notes
 
-Report with methodology and graphical results in Presentation.pdf
+See Presentation.pdf for report with methodology and graphical results. 
 
-Code in .ipynb files
+Code and Word2Vec embedding visualisation in .ipynb files
 
 Models in .bin files
 
