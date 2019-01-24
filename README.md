@@ -1,4 +1,6 @@
 # Text-Categorisation-CNN
+> **(June, 2018)**
+
 Statistical Analysis of single channel static Convolutional Neural Network for Text Categorisation
 
 ## Notes
